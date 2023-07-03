@@ -1,10 +1,11 @@
-body {background-color:white;background-image:url(/media/images/BG.png);color:white;font-size:1em;font-family:Arial, Helvetica, sans-serif;word-wrap:break-word}
+body {background-color:white;background-image:url(/media/images/BG.png);color:white;font-size:1em;font-family:Arial, Helvetica, sans-serif;word-wrap:break-word;line-height:auto}
 
 .contain {background:#303030;border:2px black solid;max-width:1000px;margin:0px auto}
 .head {max-width:100%;}
 .text {background:#303030;}
 .footer {background:black;text-align:center}
-        
+
+h1 {background:#111;font-size:24px;text-align:center;}
 a {color:white}
 a:hover {background:#fffccf;color:black}
 
