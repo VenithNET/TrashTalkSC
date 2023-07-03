@@ -3,7 +3,7 @@ body {background-color:white;background-image:url(/media/images/BG.png);color:wh
 .contain {background:#303030;border:2px black solid;max-width:1000px;margin:0px auto}
 .head {max-width:100%;}
 .text {background:#303030;}
-.footer {background:black}
+.footer {background:black;text-align:center}
         
 a {color:white}
 a:hover {background:#fffccf;color:black}
