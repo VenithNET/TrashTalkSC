@@ -9,3 +9,4 @@ a {color:white}
 a:hover {background:#fffccf;color:black}
 
 IMG {max-width:100%}
+audio {max-width:100%;margin:auto}
